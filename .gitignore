@@ -1,6 +1,6 @@
 .dropbox
 .DS_Store
-/website/beepbox*.js
+/website/beepbox*.js.map
 /website/player/beepbox*.js
 /website/player/beepbox*.js.map
 /website/player/beepbox*.js
